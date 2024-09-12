@@ -1,6 +1,6 @@
 - 👋 Olá, sou Thiago Galvão
 -  Cursando Analise em Desenvolvimento de Sistemas na SPTECH
--  Gosto de Basquete e música
+-  Gosto de basquete e música
 
 <!---
 ThGalvaon/ThGalvaon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
